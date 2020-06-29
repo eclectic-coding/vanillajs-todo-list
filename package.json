@@ -1,0 +1,10 @@
+{
+  "name": "vanillajs-todo-list",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "eclectic-coding <chuck@eclecticsaddlebag.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
