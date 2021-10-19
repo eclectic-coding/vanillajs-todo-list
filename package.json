@@ -5,6 +5,6 @@
   "author": "eclectic-coding <chuck@eclecticsaddlebag.com>",
   "license": "MIT",
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.0.0"
   }
 }
